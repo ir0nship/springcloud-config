@@ -1,2 +1,3 @@
 #//dev
-name: dev
+config:
+  info: dev
